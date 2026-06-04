@@ -1,5 +1,6 @@
 // Import libraries
 import Chart from 'chart.js/auto'
+// main.js — bootstraps libraries for inline scripts
 import * as LightweightCharts from 'lightweight-charts'
 
 // Expose to global scope for inline scripts
